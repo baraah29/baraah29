@@ -1,89 +1,181 @@
-# BARA'AH KAREEM
+<!-- PROFILE HEADER -->
 
-### Junior Full-Stack Developer | React.js · ASP.NET Core
+<h1 align="center">BARA'AH KAREEM</h1>
+
+<h3 align="center">Junior Full-Stack Developer</h3>
+
+<p align="center">
+  <code>REACT.JS</code> &nbsp;•&nbsp;
+  <code>ASP.NET CORE</code> &nbsp;•&nbsp;
+  <code>REST APIs</code> &nbsp;•&nbsp;
+  <code>COMPUTER VISION</code>
+</p>
 
 <p align="center">
   <strong>Building practical applications. Writing clean code. Solving real problems.</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:baraah.kareem@gmail.com">EMAIL</a> •
-  <a href="https://linkedin.com/in/baraah-kareem">LINKEDIN</a> •
-  <a href="https://github.com/baraah-kareem">GITHUB</a>
+  <a href="mailto:baraah.kareem@gmail.com">✉ EMAIL</a> &nbsp; | &nbsp;
+  <a href="https://linkedin.com/in/baraah-kareem">LINKEDIN</a> &nbsp; | &nbsp;
+  <a href="https://github.com/baraah29">GITHUB</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Full--Stack-DC2626?style=for-the-badge&labelColor=111111" alt="Full Stack Focus" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-1%20YEAR-DC2626?style=for-the-badge&labelColor=111111" alt="One year of experience" />
+  <img src="https://img.shields.io/badge/BASED%20ON-Continuous%20Learning-DC2626?style=for-the-badge&labelColor=111111" alt="Continuous Learning" />
 </p>
 
 ---
 
-## `01` — ABOUT ME
+## `01`   ABOUT ME
 
-I'm a Junior Full-Stack Developer with **1 year of hands-on experience** building web applications, integrating RESTful APIs, working with databases, and developing internal business systems.
+I'm a **Junior Full-Stack Developer** with one year of hands-on experience building web applications, integrating RESTful APIs, working with databases, and developing internal business systems.
 
-My focus is on creating maintainable, user-friendly applications using React.js and ASP.NET Core. I also have project experience in computer vision and machine learning using Python, OpenCV, and MediaPipe.
+I enjoy turning ideas into practical, maintainable software, with a focus on **React.js**, **ASP.NET Core**, and clean application architecture.
 
-* Developing responsive web applications
-* Building and integrating RESTful APIs
-* Working with SQL databases and application architecture
-* Exploring computer vision and intelligent applications
+My interests also extend to computer vision and machine learning, where I explore how technology can solve real-world problems.
 
----
-
-## `02` — TECH STACK
-
-**FRONTEND**
-
-React.js · JavaScript · HTML5 · CSS3
-
-**BACKEND**
-
-C# · ASP.NET Core Web API · RESTful APIs
-
-**DATABASES & TOOLS**
-
-SQL · Git · GitHub
-
-**COMPUTER VISION & AI**
-
-Python · OpenCV · MediaPipe
+* Building responsive and user-friendly web applications
+* Developing and integrating RESTful APIs
+* Working with SQL databases and structured application architecture
+* Exploring computer vision using Python, OpenCV, and MediaPipe
 
 ---
 
-## `03` — FEATURED PROJECTS
+## `02`   TECH STACK
 
-Explore my projects and development journey:
+<p><strong>FRONTEND</strong></p>
 
-* **Sign Language Recognition** — Computer vision and sign language recognition.
-* **Frontend Projects** — Web development and frontend practice.
-* **Shop** — Frontend shopping project.
-* **Tindog** — Responsive website project.
-* **Dicee** — Interactive dice game.
-* **Drum Kit** — Interactive browser-based drum kit.
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+</p>
 
-[Explore all my repositories →](https://github.com/baraah-kareem?tab=repositories)
+<p><strong>BACKEND</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C sharp" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-111111?style=for-the-badge&logo=dotnet&logoColor=DC2626" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
+</p>
+
+<p><strong>DATABASES & TOOLS</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</p>
+
+<p><strong>COMPUTER VISION & AI</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="MediaPipe" />
+</p>
 
 ---
 
-## `04` — WHAT I BRING
+## `03`   FEATURED PROJECTS
 
-* Full-stack development fundamentals
-* Frontend and backend integration
-* API-driven application development
-* Database integration and structured code
-* A continuous learning mindset
+<table>
+  <tr>
+    <td width="50%">
+      <h3>01. Sign Language Recognition</h3>
+      <p>Computer vision project for recognizing hand signs using Python, OpenCV, MediaPipe, and machine learning.</p>
+      <a href="https://github.com/baraah29/Sign-Language-Recognition-">VIEW PROJECT →</a>
+    </td>
+    <td width="50%">
+      <h3>02. Frontend1</h3>
+      <p>A web development project exploring interactive interfaces, JavaScript, React, and frontend-backend integration.</p>
+      <a href="https://github.com/baraah29/frontend1">VIEW PROJECT →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>03. Shop</h3>
+      <p>A frontend shopping project focused on web page structure and interface development.</p>
+      <a href="https://github.com/baraah29/shope">VIEW PROJECT →</a>
+    </td>
+    <td width="50%">
+      <h3>04. Tindog</h3>
+      <p>A responsive website project built to practice frontend design and layout techniques.</p>
+      <a href="https://github.com/baraah29/Tindog">VIEW PROJECT →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>05. Dicee</h3>
+      <p>An interactive dice game demonstrating JavaScript logic and dynamic page interactions.</p>
+      <a href="https://github.com/baraah29/Dicee">VIEW PROJECT →</a>
+    </td>
+    <td width="50%">
+      <h3>06. Drum Kit</h3>
+      <p>A browser-based drum kit with interactive controls and sound effects.</p>
+      <a href="https://github.com/baraah29/Drum-Kit">VIEW PROJECT →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/baraah29?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-DC2626?style=for-the-badge&labelColor=111111" alt="Explore all projects" />
+  </a>
+</p>
 
 ---
 
-## `05` — LET'S CONNECT
+## `04`   WHAT I BRING
 
-I'm always interested in learning, collaborating, and building useful software.
+* **Full-Stack Foundations** — Understanding frontend and backend development.
+* **API Integration** — Connecting applications through RESTful services.
+* **Database Skills** — Working with SQL and data-driven applications.
+* **Problem Solving** — Breaking challenges into practical solutions.
+* **Growth Mindset** — Continuously learning and improving my skills.
 
-📧 **Email:** [baraah.kareem@gmail.com](mailto:baraah.kareem@gmail.com)
+---
 
-💼 **LinkedIn:** [baraah-kareem](https://linkedin.com/in/baraah-kareem)
+## `05`   GITHUB ACTIVITY
 
-💻 **GitHub:** [baraah-kareem](https://github.com/baraah-kareem)
+<p align="center">
+  <a href="https://github.com/baraah29?tab=repositories">
+    <img src="https://img.shields.io/badge/OPEN%20SOURCE-Explore%20Repositories-DC2626?style=for-the-badge&labelColor=111111" alt="Explore repositories" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my repositories to see my projects, experiments, and development progress.
+</p>
+
+---
+
+## `06`   LET'S CONNECT
+
+Interested in software development, collaboration, and building useful applications.
+
+<p align="center">
+  <a href="mailto:baraah.kareem@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/baraah-kareem">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/baraah29">
+    <img src="https://img.shields.io/badge/GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <strong>BUILD WITH PURPOSE. DEVELOP WITH PASSION.</strong>
+</p>
+
+<p align="center">
+  <sub>Designed with a black, red, and white visual identity.</sub>
 </p>
