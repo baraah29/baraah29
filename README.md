@@ -89,16 +89,16 @@ My interests also extend to computer vision and machine learning, where I explor
       <p>Computer vision project for recognizing hand signs using Python, OpenCV, MediaPipe, and machine learning.</p>
       <a href="https://github.com/baraah29/Sign-Language-Recognition-">VIEW PROJECT →</a>
     </td>
-   <td width="50%"> <h3>03. TryVibe</h3> <p>Interactive web application with a modern interface and user-focused features.</p> <a href="https://github.com/baraah29/TryVibe">VIEW PROJECT →</a> </td>
+   <td width="50%"> <h3>02. TryVibe</h3> <p>Interactive web application with a modern interface and user-focused features.</p> <a href="https://github.com/baraah29/TryVibe">VIEW PROJECT →</a> </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>02. Dicee</h3>
+      <h3>03. Dicee</h3>
       <p>An interactive dice game demonstrating JavaScript logic and dynamic page interactions.</p>
       <a href="https://github.com/baraah29/Dicee">VIEW PROJECT →</a>
     </td>
     <td width="50%">
-      <h3>03. Drum Kit</h3>
+      <h3>04. Drum Kit</h3>
       <p>A browser-based drum kit with interactive controls and sound effects.</p>
       <a href="https://github.com/baraah29/Drum-Kit">VIEW PROJECT →</a>
     </td>
