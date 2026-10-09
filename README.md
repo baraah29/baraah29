@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Full--Stack-DC2626?style=for-the-badge&labelColor=111111" alt="Full Stack Focus" />
   <img src="https://img.shields.io/badge/EXPERIENCE-1%20YEAR-DC2626?style=for-the-badge&labelColor=111111" alt="One year of experience" />
-  <img src="https://img.shields.io/badge/BASED%20ON-Continuous%20Learning-DC2626?style=for-the-badge&labelColor=111111" alt="Continuous Learning" />
 </p>
 
 ---
@@ -90,32 +89,15 @@ My interests also extend to computer vision and machine learning, where I explor
       <p>Computer vision project for recognizing hand signs using Python, OpenCV, MediaPipe, and machine learning.</p>
       <a href="https://github.com/baraah29/Sign-Language-Recognition-">VIEW PROJECT →</a>
     </td>
-    <td width="50%">
-      <h3>02. Frontend1</h3>
-      <p>A web development project exploring interactive interfaces, JavaScript, React, and frontend-backend integration.</p>
-      <a href="https://github.com/baraah29/frontend1">VIEW PROJECT →</a>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>03. Shop</h3>
-      <p>A frontend shopping project focused on web page structure and interface development.</p>
-      <a href="https://github.com/baraah29/shope">VIEW PROJECT →</a>
-    </td>
-    <td width="50%">
-      <h3>04. Tindog</h3>
-      <p>A responsive website project built to practice frontend design and layout techniques.</p>
-      <a href="https://github.com/baraah29/Tindog">VIEW PROJECT →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>05. Dicee</h3>
+      <h3>02. Dicee</h3>
       <p>An interactive dice game demonstrating JavaScript logic and dynamic page interactions.</p>
       <a href="https://github.com/baraah29/Dicee">VIEW PROJECT →</a>
     </td>
     <td width="50%">
-      <h3>06. Drum Kit</h3>
+      <h3>03. Drum Kit</h3>
       <p>A browser-based drum kit with interactive controls and sound effects.</p>
       <a href="https://github.com/baraah29/Drum-Kit">VIEW PROJECT →</a>
     </td>
